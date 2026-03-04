@@ -31,3 +31,4 @@ git commit -m "first commit"
 | ---- | --- | -------- |
 | Бат  | 20  | IT       |
 | Болд | 22  | SE       |
+# lab3_markdown
